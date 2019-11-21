@@ -7,8 +7,6 @@ excerpt: I'm creating my first post!
 tags:
     - Blogging
     - Tutorials
-    - Stud Abroad
-    - Consultancy
 ---
 
 # Hello!

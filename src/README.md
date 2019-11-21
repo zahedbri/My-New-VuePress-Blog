@@ -1,19 +1,21 @@
 ---
 title: Home
 home: true
-heroText: Welcome to My Blog!
-tagline: Study Abroad, Travel Consultant, Srtudent Counseling
+heroText: Hero
+tagline: Blogs on Higher Study & Travel Counseling
 actionText: Go To Github
 actionLink: https://github.com/bencodezen/vuepress-blog-boilerplate
 features:
-- 
-    title: Study Abroad
-    details: A Study Abroad Consultant for Abroad Going Students
-- 
-    title: Travel Consultancy
-    details: We support you with all your travel needs
-- 
-    title: Student Counseling
-    details: Students Are always welcome!
-footer: [Link] ['StudyAbroad'], [Link] [/Home/] [Link][/blog/]
+-
+    title: Feature 1
+    details: Feature Details
+-
+    title: Feature 2
+    details: Feature Details
+-
+    title: Feature 3
+    details: Feature Details
+footer: -Home
+        - Blog
+        - About
 ---
